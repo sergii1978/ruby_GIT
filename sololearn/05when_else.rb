@@ -1,3 +1,4 @@
+age = 5
 case age
 when 1, 2, 3
     puts "Little baby"
