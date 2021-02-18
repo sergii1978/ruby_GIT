@@ -3,7 +3,7 @@
 Не используйте встроенные функции для определения четности.
 =end
 def even?(a)
-    (a % 2).zero?
-  end
-  a = gets.chomp.to_i
-  p even?(a)
+  (a % 2).zero?
+end
+a = gets.chomp.to_i
+p even?(a)
